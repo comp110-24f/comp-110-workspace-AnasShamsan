@@ -1,5 +1,7 @@
 """River Simulation"""
 
+__author__ = "730524701"
+
 from ex07.river import River
 
 
